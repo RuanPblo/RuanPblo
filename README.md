@@ -126,20 +126,6 @@ Também tenho interesse em **aprender idiomas, conhecer novas culturas e viajar*
 
 Gosto da ideia de poder utilizar a tecnologia e o conhecimento para abrir novas possibilidades, tanto profissionalmente quanto pessoalmente.
 
----
-
-## ⚡ Minha filosofia
-
-<div align="center">
-
-### **"Aprender. Criar. Testar. Evoluir."**
-
-Cada projeto é uma oportunidade de transformar conhecimento em experiência.
-
-</div>
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="center">
