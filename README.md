@@ -188,6 +188,4 @@ Cada projeto é uma oportunidade de transformar conhecimento em experiência.
 
 ### 🚀 Obrigado por visitar meu perfil!
 
-**"O futuro é construído por quem decide começar hoje."**
-
 </div>
