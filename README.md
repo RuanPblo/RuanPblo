@@ -82,21 +82,6 @@ Desenvolvimento de sistemas utilizando sensores **ultrassônicos, infravermelhos
 **⚙️ Projetos com Servo Motors**
 Experimentos envolvendo controle de motores e movimentação através de Arduino.
 
----
-
-## 🧤 Projeto em destaque
-
-### **Luva Comunicativa**
-
-Um dos projetos que mais representa meu interesse por **tecnologia e soluções assistivas**.
-
-A proposta é utilizar **Arduino + sensores + módulo de áudio** para reconhecer determinados gestos realizados com a mão e transformá-los em frases pré-programadas.
-
-O projeto une:
-
-`🤖 Robótica` + `💻 Programação` + `🔌 Eletrônica` + `🧠 Automação`
-
----
 
 ## 🎯 Onde quero chegar
 
