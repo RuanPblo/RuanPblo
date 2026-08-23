@@ -1,96 +1,193 @@
-<img width="1942" height="809" alt="BannerGithub" src="https://github.com/user-attachments/assets/5b397366-0ccf-4f12-95e6-d50647234a66" />
+<div align="center">
 
-👋 Olá! Eu sou Ruan Pablo
+# 👋 Olá, eu sou **Ruan Pablo**
 
-💻 Estudante de Técnico em Informática | 🤖 Robótica & Automação | 🚀 Desenvolvedor em formação
+### 💻 Técnico em Informática em formação • 🤖 Robótica & Automação • 🚀 Desenvolvedor em formação
 
-🧑‍💻 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Programação+%7C+Robótica+%7C+Automação;Transformando+ideias+em+projetos;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-Atualmente estou no 3º ano do Técnico em Informática integrado ao Ensino Médio, onde venho desenvolvendo meus conhecimentos em programação, eletrônica, robótica e desenvolvimento de sistemas.
+</div>
 
-Tenho interesse em entender como a tecnologia funciona e, principalmente, em transformar ideias em projetos reais. Gosto de aprender colocando a mão na massa, criando projetos e experimentando diferentes tecnologias.
+---
 
-Minha trajetória tem sido bastante voltada para programação, robótica e automação, áreas nas quais pretendo continuar evoluindo profissionalmente.
+## 🧑‍💻 Sobre mim
 
-🤖 Robótica & Automação
+🎓 Atualmente estou no **3º ano do Técnico em Informática integrado ao Ensino Médio**.
 
-Tenho desenvolvido projetos utilizando Arduino, sensores, motores e componentes eletrônicos.
+Sou apaixonado por tecnologia e gosto de aprender principalmente através da **prática**, desenvolvendo projetos e experimentando novas ideias.
 
-Alguns dos conceitos e componentes que venho explorando:
+Minha formação e meus interesses estão voltados principalmente para:
 
-🔌 Arduino
-📡 Sensores
-⚙️ Motores e Servo Motors
-🎛️ Potenciômetros
-🔴 Sensores infravermelhos
-📏 Sensores ultrassônicos
-🔊 Módulos de áudio
-🤖 Automação e sistemas embarcados
-🔧 Montagem e prototipagem de circuitos
+* 💻 **Programação e desenvolvimento de sistemas**
+* 🤖 **Robótica**
+* ⚙️ **Automação**
+* 🔌 **Eletrônica**
+* 🧠 **Sistemas embarcados**
+* 🚀 **Desenvolvimento de projetos**
 
-Meu objetivo é cada vez mais unir programação + eletrônica + automação para criar soluções inteligentes.
+Gosto de entender **como as coisas funcionam por trás da tecnologia** e transformar aquilo que aprendo em algo que possa ser utilizado na prática.
 
-💻 Programação
+> 💡 **Meu objetivo é unir programação, eletrônica e automação para criar soluções tecnológicas.**
 
-Atualmente estou aprimorando meus conhecimentos em:
+---
 
-C#
-Java
-Programação Orientada a Objetos (POO)
-Lógica de Programação
-Desenvolvimento de Sistemas
-Estruturas e conceitos de programação
+## 🤖 Robótica & Automação
 
-Também estou sempre buscando conhecer novas linguagens, ferramentas e tecnologias que possam contribuir para minha formação.
+Uma das áreas que mais me interessa é a **robótica**.
 
-🚀 Projetos
+Tenho desenvolvido projetos utilizando **Arduino**, sensores, motores e diversos componentes eletrônicos.
 
-Gosto de aprender através de projetos práticos. Alguns dos projetos que venho desenvolvendo envolvem:
+### 🔧 O que venho explorando
 
-🤖 Robótica e Automação
-Projetos utilizando Arduino, sensores, motores e sistemas automatizados.
+| 🔌 Eletrônica    | 🤖 Robótica  | ⚙️ Automação             |
+| ---------------- | ------------ | ------------------------ |
+| Arduino          | Servo Motors | Sistemas automatizados   |
+| Sensores         | Motores DC   | Controle de dispositivos |
+| Potenciômetros   | Sensores IR  | Projetos inteligentes    |
+| Módulos de áudio | Ultrassônico | Sistemas embarcados      |
 
-♻️ Eco Bot
-Projeto voltado para automação e sustentabilidade, utilizando robótica para criar uma solução inteligente.
+---
 
-🔧 Projetos com Sensores e Atuadores
-Experimentos envolvendo sensores ultrassônicos, sensores IR, servo motores, potenciômetros e outros componentes.
+## 💻 Programação
 
-🎯 Meus objetivos
+Atualmente estou desenvolvendo meus conhecimentos em:
 
-Meu objetivo é continuar evoluindo na área de Tecnologia, principalmente em Desenvolvimento de Software, Robótica e Automação.
+### 🧠 Linguagens
 
-Quero transformar meus conhecimentos em projetos cada vez mais completos, adquirir experiência profissional e continuar aprendendo novas tecnologias.
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-No futuro, pretendo trabalhar com desenvolvimento e criação de soluções tecnológicas, unindo programação, sistemas e automação.
+### 📚 Conceitos
 
-📚 Atualmente estudando
-C#                    ███████░░░
-Java                  ██████░░░░
-Programação           ███████░░░
-POO                   ██████░░░░
-Arduino               ████████░░
-Robótica              ███████░░░
-Automação             ██████░░░░
-Eletrônica            ██████░░░░
-🌎 Além da tecnologia
+`Programação Orientada a Objetos` • `Lógica de Programação` • `Estruturas de Dados` • `Desenvolvimento de Sistemas`
 
-Também tenho interesse em aprender idiomas e conhecer novas culturas. Acredito que aprender novas línguas pode abrir portas tanto na vida pessoal quanto profissional.
+---
 
-Estou sempre buscando aprender algo novo, seja através de projetos, estudos ou experiências práticas.
+## 🚀 Projetos
 
-⚡ Filosofia
+Gosto de aprender criando projetos reais.
 
-"Aprender, criar, testar e evoluir."
+### 🤖 Projetos de Robótica
 
-Cada projeto é uma oportunidade para aprender algo novo e transformar conhecimento em experiência.
+**♻️ Eco Bot**
+Projeto voltado para **robótica, automação e sustentabilidade**, buscando utilizar tecnologia para criar uma solução inteligente.
 
-🚀 Tecnologias e ferramentas
+**📡 Projetos com Sensores**
+Desenvolvimento de sistemas utilizando sensores **ultrassônicos, infravermelhos, potenciômetros e outros componentes**.
 
-Linguagens:
-C# Java C/C++
+**⚙️ Projetos com Servo Motors**
+Experimentos envolvendo controle de motores e movimentação através de Arduino.
 
-Robótica & Eletrônica:
-Arduino Sensores Servo Motors Motores IoT
+---
 
-⭐ Obrigado por visitar meu perfil!
+## 🧤 Projeto em destaque
+
+### **Luva Comunicativa**
+
+Um dos projetos que mais representa meu interesse por **tecnologia e soluções assistivas**.
+
+A proposta é utilizar **Arduino + sensores + módulo de áudio** para reconhecer determinados gestos realizados com a mão e transformá-los em frases pré-programadas.
+
+O projeto une:
+
+`🤖 Robótica` + `💻 Programação` + `🔌 Eletrônica` + `🧠 Automação`
+
+---
+
+## 🎯 Onde quero chegar
+
+Quero continuar evoluindo como profissional da área de tecnologia e adquirir cada vez mais experiência prática.
+
+### 🚀 Meus principais objetivos
+
+* 📈 Evoluir na programação
+* 🤖 Aprofundar meus conhecimentos em robótica
+* ⚙️ Aprender mais sobre automação
+* 💻 Desenvolver sistemas cada vez mais completos
+* 🔌 Aprender mais sobre eletrônica e sistemas embarcados
+* 🌎 Conhecer novas tecnologias e ferramentas
+* 💼 Conseguir experiência profissional na área de tecnologia
+
+No futuro, quero trabalhar desenvolvendo **soluções tecnológicas**, unindo software, hardware e automação.
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+C#                   ████████░░  80%
+Java                 ██████░░░░  60%
+Programação          ████████░░  80%
+POO                  ██████░░░░  60%
+Arduino              ████████░░  80%
+Robótica             ███████░░░  70%
+Automação            ██████░░░░  60%
+Eletrônica           ██████░░░░  60%
+```
+
+> ⚠️ *As porcentagens representam meu nível de estudo atual e estão sempre evoluindo.*
+
+---
+
+## 🌎 Além da tecnologia
+
+Acredito que evolução não acontece apenas através da programação.
+
+Também tenho interesse em **aprender idiomas, conhecer novas culturas e viajar**.
+
+Gosto da ideia de poder utilizar a tecnologia e o conhecimento para abrir novas possibilidades, tanto profissionalmente quanto pessoalmente.
+
+---
+
+## ⚡ Minha filosofia
+
+<div align="center">
+
+### **"Aprender. Criar. Testar. Evoluir."**
+
+Cada projeto é uma oportunidade de transformar conhecimento em experiência.
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+### 💻 Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=cs,java,cpp,git,github,vscode" />
+
+### 🤖 Hardware & Robótica
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+`Arduino` • `Sensores` • `Servo Motors` • `Motores` • `Eletrônica` • `Automação`
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Obrigado por visitar meu perfil!
+
+**"O futuro é construído por quem decide começar hoje."**
+
+</div>
