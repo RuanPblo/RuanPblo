@@ -1,10 +1,11 @@
+<img width="1942" height="809" alt="BannerGithub" src="https://github.com/user-attachments/assets/32f96849-e171-40dd-86ca-6bdf067560a2" />
+
 <div align="center">
 
 # 👋 Olá, eu sou **Ruan Pablo**
 
 ### 💻 Técnico em Informática em formação • 🤖 Robótica & Automação • 🚀 Desenvolvedor em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Programação+%7C+Robótica+%7C+Automação;Transformando+ideias+em+projetos;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -118,14 +119,14 @@ No futuro, quero trabalhar desenvolvendo **soluções tecnológicas**, unindo so
 ## 📚 Atualmente estudando
 
 ```text
-C#                   ████████░░  80%
+C#                   █████░░░░░  50%
 Java                 ██████░░░░  60%
 Programação          ████████░░  80%
 POO                  ██████░░░░  60%
-Arduino              ████████░░  80%
-Robótica             ███████░░░  70%
-Automação            ██████░░░░  60%
-Eletrônica           ██████░░░░  60%
+Arduino              █████████░  90%
+Robótica             ████████░░  80%
+Automação            ███████░░░  70%
+Eletrônica            ███████░░░  70%
 ```
 
 > ⚠️ *As porcentagens representam meu nível de estudo atual e estão sempre evoluindo.*
@@ -172,6 +173,32 @@ Cada projeto é uma oportunidade de transformar conhecimento em experiência.
 
 ---
 
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ruan-pablo-b76a59384/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ruanpbl0_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tinkercad.com/users/lWW7yjXy9Un" target="_blank">
+  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" />
+</a>
+
+</div>
+
+### 📫 Onde me encontrar
+
+* 💼 **LinkedIn** — Projetos, estudos e trajetória profissional
+* 📸 **Instagram** — Um pouco mais sobre mim
+* 🤖 **Tinkercad** — Projetos e experimentos de eletrônica e Arduino
+
+---
+
 ## 📊 GitHub
 
 <div align="center">
@@ -187,5 +214,7 @@ Cada projeto é uma oportunidade de transformar conhecimento em experiência.
 <div align="center">
 
 ### 🚀 Obrigado por visitar meu perfil!
+
+**"Aprender. Criar. Testar. Evoluir."**
 
 </div>
