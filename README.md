@@ -138,7 +138,6 @@ Gosto da ideia de poder utilizar a tecnologia e o conhecimento para abrir novas 
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
-`Arduino` • `Sensores` • `Servo Motors` • `Motores` • `Eletrônica` • `Automação`
 
 </div>
 
