@@ -1,4 +1,4 @@
-<img width="1942" height="809" alt="BannerGithub" src="https://img10.reactor.cc/pics/post/Pixel-Gif-Pixel-Art-Hollow-Knight-%D0%98%D0%B3%D1%80%D1%8B-7880694.gif" />
+<img width="1942" height="809" alt="BannerGithub" src="[https://img10.reactor.cc/pics/post/Pixel-Gif-Pixel-Art-Hollow-Knight-%D0%98%D0%B3%D1%80%D1%8B-7880694.gif](https://imgs.search.brave.com/kdXyr-7c02zA4g0-kwNIHbYVvx0HO6OfHuYWCKNf6co/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/aG9sbG93LWtuaWdo/dC1waXhlbGFydC1i/eS1tZS12MC16Zmkx/MGNpYnRkajgxLmdp/Zj93aWR0aD02NDAm/Y3JvcD1zbWFydCZm/b3JtYXQ9cG5nOCZz/PTI0NzYyZWYwMmE2/ZjUwNTM5MjljYWEx/YWJiZmY5NTg3NDJi/OThiMDU.gif)" />
 
 <div align="center">
 
