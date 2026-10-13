@@ -1,4 +1,4 @@
-<img width="1942" height="809" alt="BannerGithub" src="https://giffiles.alphacoders.com/215/215586.gif" />
+<img width="100%" alt="BannerGithub" src="https://giffiles.alphacoders.com/215/215586.gif" />
 
 <div align="center">
 
